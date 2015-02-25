@@ -1,0 +1,28 @@
+
+\.  # a dot
+\*  # an asterisk
+\[  # open bracket
+.+  # one or more
+.]  # close bracket
+\.  # a dot
+\*  # an asterisk
+
+
+^   # from the start
+\^  # a caret char
+.+  # one or more chars
+\.  # a dot char
+\*  # an asterisk
+\$  # a dollar sign
+$   # to the end
+
+
+\^  # a caret char
+\*  # an asterisk
+\*  # an asterisk
+\+  # a plus
+\*  # an asterisk
+.*  # zero or more chars
+\$  # a dollar sign
+$   # to the end
+
