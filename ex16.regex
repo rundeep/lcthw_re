@@ -1,0 +1,2 @@
+!rep ,http://(.+?)/,https://site.com/\1,
+!rep ,http://(.+)/,https://site.com/\1,
